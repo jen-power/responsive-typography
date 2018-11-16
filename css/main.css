@@ -103,8 +103,8 @@ h1 {
     line-height: 1.5;
   }
 
-  p {
-    margin: 0 0 1.5rem;
+  header p {
+    margin-bottom: 1.5rem;
   }
 
   body {
