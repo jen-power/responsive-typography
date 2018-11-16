@@ -82,9 +82,16 @@ h1 {
     line-height: 1.4;
   }
 
-  h1,
   p {
-    margin: 0 0 1.4rem;
+    margin: 0 0 1.5rem;
+  }
+
+  body {
+    padding: 1.4rem 0;
+  }
+
+  article > p:nth-child(2) {
+    padding-top: 1.5em;
   }
 
 }
@@ -96,7 +103,6 @@ h1 {
     line-height: 1.5;
   }
 
-  h1,
   p {
     margin: 0 0 1.5rem;
   }
